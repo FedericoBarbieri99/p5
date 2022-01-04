@@ -41,4 +41,5 @@ def get_lines():
 
 
 if __name__ == '__main__':
+    print("hello")
     run()
